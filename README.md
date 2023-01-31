@@ -14,6 +14,7 @@ This repository contains terraform examples for setting up componets of [Noname 
 ## Existing components
 
 1. [Network](network)
+2. [Remote Engine on EC2 VM](remote-engine-aws-ec2)
 
 
 ## Contributing
